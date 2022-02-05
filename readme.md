@@ -1,0 +1,3 @@
+# Redcat Bot 2 Alpha
+
+## Coming soon...
